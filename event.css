@@ -1,0 +1,17 @@
+
+body {
+    background-color: skyblue;
+}
+.title {
+    text-align: center;
+    
+}
+.text {
+    margin-top: 50px;
+    margin-right: 180px;
+    margin-left: 180px;
+    font-size: large;
+}
+.img {
+    margin-left: 300px;
+}

@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1476370648495-3533f64427a2?ixlib=rb-1.2.1&w=1000&q=80);
+}
+.header {
+    text-align: center;
+    margin-top: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    }
+.trip {
+display: block;
+text-align: center;
+color: white;
+}
+.reflection {
+text-align: center;
+   margin-left: 250px;
+   margin-right: 250px;
+   font-size:large;
+   color:white;
+}
+.KF {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+}
+.prediction {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: white;
+    font-size: large;
+}
+.know {
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+.interest {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: white;
+    font-size: large;
+}
